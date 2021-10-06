@@ -1,4 +1,4 @@
-Hi there 👋. Here's short list of some of my projects by category.
+Hi there 👋. Here's short list of my favorite projects by category.
 
 ### Geospatial
 
