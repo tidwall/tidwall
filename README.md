@@ -1,4 +1,4 @@
-Hi there 👋. Here's short list of my favorite open source work.
+Hi there 👋. Here's a quick list of my favorite projects.
 
 ### Geospatial
 
