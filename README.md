@@ -33,7 +33,7 @@ Hi there 👋. Here's a quick list of my favorite projects.
 - [rtree](https://github.com/tidwall/rtree): R-tree implemention for Go
 - [rtree.c](https://github.com/tidwall/rtree.c): R-tree implementation for C
 - [hashmap.c](https://github.com/tidwall/hashmap.c): Hashmap using Robinhood hashing for C
-- [rhh](https://github.com/tidwall/rhh): Hashmap using Robinhood hashing for Go
+- [hashmap](https://github.com/tidwall/rhh): Hashmap using Robinhood hashing for Go
 - [tinylru](https://github.com/tidwall/tinylru): A fast little LRU cache for Go
 
 ### Video / graphics
