@@ -9,8 +9,8 @@ Hi there 👋. Here's a quick list of my favorite projects.
 
 ### Networking / frameworks
 
-- [Uhaha](https://github.com/tidwall/uhaha): High availablity framework for quickly creating raft applications in Go
-- [Redcon](https://github.com/tidwall/redcon): Redis compatible server framework for Go
+- [uhaha](https://github.com/tidwall/uhaha): High availablity framework for quickly creating raft applications in Go
+- [recon](https://github.com/tidwall/redcon): Redis compatible server framework for Go
 - [evio](https://github.com/tidwall/evio): Fast event-loop networking for Go
 
 ### JSON
@@ -34,7 +34,7 @@ Hi there 👋. Here's a quick list of my favorite projects.
 
 ### Video / graphics
 
-- [Avios](https://github.com/tidwall/avios): Realtime H264 decoding library for iOS
+- [avios](https://github.com/tidwall/avios): Realtime H264 decoding library for iOS
 - [pinhole](https://github.com/tidwall/pinhole): 3D Wireframe Drawing Library for Go
 - [digitalrain](https://github.com/tidwall/digitalrain): Matrix Digital Rain written in Go for HTML5 + Canvas
 
