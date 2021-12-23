@@ -15,8 +15,7 @@ Hi there 👋. Here's a quick list of my favorite projects.
 
 ### JSON
 
-- [gjson](https://github.com/tidwall/gjson): Get JSON values quickly - JSON parser for Go
-- [gjson.rs](https://github.com/tidwall/gjson.rs): GJSON for Rust
+- [gjson](https://github.com/tidwall/gjson): Get JSON values quickly - JSON parser for Go (and [gjson.rs](https://github.com/tidwall/gjson.rs) for Rust)
 - [sjson](https://github.com/tidwall/sjson): Set JSON values very quickly in Go
 - [jj](https://github.com/tidwall/jj): JSON Stream Editor (command line utility)
 - [pretty](https://github.com/tidwall/pretty): Efficient JSON beautifier and compactor for Go
@@ -28,12 +27,9 @@ Hi there 👋. Here's a quick list of my favorite projects.
 
 ### Data stuctures
 
-- [btree](https://github.com/tidwall/btree): B-tree implementation for Go
-- [btree.c](https://github.com/tidwall/btree.c): B-tree implementation for C
-- [rtree](https://github.com/tidwall/rtree): R-tree implemention for Go
-- [rtree.c](https://github.com/tidwall/rtree.c): R-tree implementation for C
-- [hashmap](https://github.com/tidwall/hashmap): Hashmap using Robinhood hashing for Go
-- [hashmap.c](https://github.com/tidwall/hashmap.c): Hashmap using Robinhood hashing for C
+- [btree](https://github.com/tidwall/btree): B-tree implementation for Go (and [btree.c](https://github.com/tidwall/btree.c) for C)
+- [rtree](https://github.com/tidwall/rtree): R-tree implemention for Go (and [rtree.c](https://github.com/tidwall/rtree.c) for C)
+- [hashmap](https://github.com/tidwall/hashmap): Hashmap using Robinhood hashing for Go (and [hashmap.c](https://github.com/tidwall/hashmap.c) for C)
 - [tinylru](https://github.com/tidwall/tinylru): A fast little LRU cache for Go
 
 ### Video / graphics
