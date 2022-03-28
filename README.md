@@ -10,7 +10,7 @@ Hi there 👋. Here's a quick list of my favorite projects.
 ### Networking / frameworks
 
 - [uhaha](https://github.com/tidwall/uhaha): High availablity framework for quickly creating raft applications in Go
-- [recon](https://github.com/tidwall/redcon): Redis compatible server framework for Go
+- [redcon](https://github.com/tidwall/redcon): Redis compatible server framework for Go
 - [evio](https://github.com/tidwall/evio): Fast event-loop networking for Go
 
 ### JSON
