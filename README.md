@@ -14,4 +14,4 @@ Here are general guidelines that extend to all of my projects, but each individu
 
 My software is free and comes with no warranty.
 If your company uses my software and runs into a problem, file an issue.
-If you need priority support or a new feature, contact me directly.
+If you need priority support, contact me directly.
