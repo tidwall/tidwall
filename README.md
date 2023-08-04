@@ -18,4 +18,4 @@ If you need priority support or a new feature, contact me directly.
 
 ### Donations
 
-Please don't ask. I don't take donations.
+I don't take donations. Please don't ask.
