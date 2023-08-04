@@ -1,6 +1,6 @@
 ### About me
 
-I'm an independent programmer, not affiliated with any company or organization. My research is mostly focued around spatial, geolocation, and data structures.
+I'm an independent programmer mostly focued on spatial, geolocation, and data structures.
 
 ### Contributing to my software
 
@@ -18,4 +18,4 @@ If you need priority support or a new feature, contact me directly.
 
 ### Donations
 
-My software is a labor of love and I generally don't take donations.
+Please don't ask. I don't take donations.
