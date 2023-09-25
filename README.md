@@ -1,6 +1,6 @@
 ### About me
 
-I'm an independent programmer mostly focued on geospatial and data structures.
+I'm an independent programmer mostly focused on geospatial and data structures.
 
 ### Contributing to my software
 
