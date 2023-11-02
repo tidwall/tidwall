@@ -1,3 +1,4 @@
+<!--
 ### About me
 
 I'm an independent programmer mostly focused on geospatial and data structures.
@@ -14,3 +15,4 @@ Here are general guidelines that extend to all of my projects, but each individu
 
 My software is free and comes with no warranty.
 If you need priority support, contact me directly.
+-->
