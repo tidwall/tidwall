@@ -16,4 +16,3 @@ Here are general guidelines that extend to all of my projects, but each individu
 
 My software is free and comes with no warranty. I do not respond to every request over Github.  
 If you need priority support, contact me directly.
-josh@polypointlabs.com
