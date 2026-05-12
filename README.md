@@ -1,10 +1,10 @@
+**Due to recent spikes in bot activity, the Issues and Pull Requests tabs have been disabled on various repositories.**
+
 ### About me
 
 I'm an independent programmer working on high performance, hand-crafted software.
 
 ### Contributing to my software
-
-A project may have the Issues and Pull Requests tabs disabled, that means you'll need to contact me directly.
 
 Here are general guidelines that extend to all of my projects, but each individual project may have addtional requirements.
 
@@ -13,8 +13,6 @@ Here are general guidelines that extend to all of my projects, but each individu
 - **[Pull requests]** Please do not open a pull request without filing an issue and/or discussing it with me beforehand.
 - **[Anonymity]** Requests from anonymous Github accounts will likely be ignored.
 - **[LLM code]** LLM-based contributions are not accepted, and may be closed or deleted without prior notice.
-
-
 
 ### Software support
 
