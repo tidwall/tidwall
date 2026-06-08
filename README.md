@@ -1,5 +1,3 @@
-**Due to recent spikes in bot activity, the Issues and Pull Requests tabs have been disabled on various repositories.**
-
 ### About me
 
 I'm an independent programmer working on high performance, hand-crafted software.
