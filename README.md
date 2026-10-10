@@ -1,7 +1,3 @@
-### About me
-
-I'm an independent programmer working on high-performance software.
-
 ### Contributing to my software
 
 Here are general guidelines that extend to all of my projects, but each individual project may have additional requirements.
